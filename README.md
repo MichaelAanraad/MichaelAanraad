@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RuffBoii
 - 👀 I’m interested in NFTs
-- 🌱 I’m currently learning Python, Django and Flask!
-- 💞️ I’m looking to collaborate on learning cool new stuff!
+- 🌱 I’m currently learning Python, Django and Flask
+- 💞️ I’m looking to collaborate on learning cool new stuff :)
 - 📫 How to reach me: Twitter @Ruff_Boii
 
 <!---
