@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michael Aanraad
-- 👀 I’m interested in NFTs
+- 👀 I’m interested in NFTs and Web3 technology
 - 🌱 I’m currently learning Python, Django and Flask
 - 💞️ I’m looking to collaborate on learning cool new stuff :)
 - 📫 How to reach me: michaelaanraad@icloud.com
